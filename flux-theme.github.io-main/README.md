@@ -1,2 +1,2 @@
-# flux-theme.github.io
+# meerab.github.io
 A modern responsive theme for Utopia RPG (https://utopia-game.com)
